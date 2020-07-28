@@ -3,8 +3,8 @@ package com.sumanth.demo;
 
 public class Hello {
 
-	public void hello() {
-		System.out.println("hello");
-
+	public static void main(String[] args) {
+		Date d = new Date();
+		System.out.println();
 	}
 }
